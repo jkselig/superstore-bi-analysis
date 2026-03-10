@@ -125,7 +125,8 @@ Additional project documentation:
 
 ## Repository Structure
 
-superstore_bi_analysis
+```text
+superstore-bi-analysis
 │
 ├── data
 │   └── Sample - Superstore.csv
@@ -154,9 +155,11 @@ superstore_bi_analysis
 │   └── data_dictionary.md
 │
 └── README.md
+```
 ---
 
 ## Author
 
 Jeremy Selig
 Data Analyst Portfolio
+
