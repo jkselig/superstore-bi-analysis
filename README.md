@@ -129,7 +129,7 @@ superstore_bi_analysis
 │
 ├── data
 │   └── Sample - Superstore.csv
-
+│
 ├── sql
 │   ├── 01_create_database.sql
 │   ├── 02_create_staging.sql
@@ -138,22 +138,21 @@ superstore_bi_analysis
 │   ├── 05_build_fact.sql
 │   ├── 06_create_views.sql
 │   └── 07_eda_analysis.sql
-
+│
 ├── powerbi
 │   └── SuperStore.pbix
-
+│
 ├── images
 │   ├── data_model.png
 │   ├── executive_dashboard.png
 │   ├── regional_analysis.png
 │   ├── product_profitability.png
 │   └── extreme_loss_analysis.png
-
+│
 ├── documentation
 │   └── data_dictionary.md
-
+│
 └── README.md
-
 ---
 
 ## Author
