@@ -15,7 +15,7 @@ The project demonstrates:
 - Interactive Power BI dashboards
 - Business insight analysis
 
-Dataset: Tableau Superstore sample dataset (~10k retail transactions)
+**Dataset:** Tableau Superstore sample dataset (~10k retail transactions)
 
 ---
 
@@ -165,6 +165,7 @@ superstore-bi-analysis
 
 Jeremy Selig
 Data Analyst Portfolio
+
 
 
 
