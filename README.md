@@ -134,6 +134,7 @@ superstore_bi_analysis
 │   ├── 01_create_database.sql
 │   ├── 02_create_staging.sql
 │   ├── 03_load_staging.sql
+│   ├── 03A_wizard_import_instructions.sql
 │   ├── 04_build_dimensions.sql
 │   ├── 05_build_fact.sql
 │   ├── 06_create_views.sql
