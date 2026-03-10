@@ -51,13 +51,13 @@ Power BI Dashboard
 A **star schema** was implemented to support analytical queries.
 
 Fact Table
-• fact_sales
+- fact_sales
 
 Dimension Tables
 
-• dim_customer
-• dim_product
-• dim_date
+- dim_customer
+- dim_product
+- dim_date
 
 ![Data Model](images/data_model.png)
 
@@ -168,6 +168,7 @@ superstore-bi-analysis
 
 Jeremy Selig
 Data Analyst Portfolio
+
 
 
 
