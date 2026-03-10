@@ -1,4 +1,5 @@
-# Superstore Business Intelligence Dashboard (SQL + Power BI)
+# Superstore Business Intelligence Project
+SQL Server + Power BI
 
 ## Overview
 
@@ -13,6 +14,8 @@ The project demonstrates:
 • Analytical SQL views
 • Power BI dashboard development
 • Business insight analysis
+
+Dataset: Tableau Superstore sample dataset (~10k retail transactions)
 
 ---
 
@@ -162,4 +165,5 @@ superstore-bi-analysis
 
 Jeremy Selig
 Data Analyst Portfolio
+
 
