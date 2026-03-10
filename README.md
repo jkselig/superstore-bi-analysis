@@ -27,21 +27,24 @@ What factors drive profitability in retail sales, and how can the business reduc
 
 ## Project Architecture
 
+```
 Raw CSV Dataset
-↓
+      │
+      ▼
 SQL Staging Table
-↓
+      │
+      ▼
 Dimension Tables
-(dim_customer, dim_product, dim_date)
-↓
+      │
+      ▼
 Fact Table
-(fact_sales)
-↓
+      │
+      ▼
 Analytical SQL Views
-↓
+      │
+      ▼
 Power BI Dashboard
-
----
+```
 
 ## Data Model
 
@@ -165,6 +168,7 @@ superstore-bi-analysis
 
 Jeremy Selig
 Data Analyst Portfolio
+
 
 
 
