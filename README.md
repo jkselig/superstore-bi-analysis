@@ -48,7 +48,7 @@ Power BI Dashboard
 
 ## Data Model
 
-A **star schema** was implemented to support analytical queries.
+The analytics layer uses a **star schema** optimized for reporting and Power BI queries.
 
 ### Fact Table
 
@@ -168,6 +168,7 @@ superstore-bi-analysis
 
 Jeremy Selig
 Data Analyst Portfolio
+
 
 
 
