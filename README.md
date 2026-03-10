@@ -9,11 +9,11 @@ The goal is to transform raw sales data into an analytics-ready model and build 
 
 The project demonstrates:
 
-• SQL star schema data modeling
-• ETL pipeline using staging tables
-• Analytical SQL views
-• Power BI dashboard development
-• Business insight analysis
+- SQL star schema data modeling
+- ETL pipeline using staging tables
+- Analytical SQL views
+- Interactive Power BI dashboards
+- Business insight analysis
 
 Dataset: Tableau Superstore sample dataset (~10k retail transactions)
 
@@ -165,5 +165,6 @@ superstore-bi-analysis
 
 Jeremy Selig
 Data Analyst Portfolio
+
 
 
